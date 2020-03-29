@@ -1,4 +1,4 @@
 
 def catch_phrase(Hey)
-  puts phrase
+  puts Hey
 end
