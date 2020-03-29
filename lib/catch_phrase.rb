@@ -1,4 +1,3 @@
-
-def catch_phrase(Hey)
-  puts Hey
+def catch_phrase(Sandie)
+  puts Sandie
 end
